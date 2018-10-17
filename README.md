@@ -258,7 +258,7 @@ def get_polarity_mean(valid_tweets):
 
 *Obs.: O `valid_tweets` nada mais é do que o retorno da nossa função*
 
-**15**. Também podemos transformar a query utilizada (`q`) em um parametro recebido pela função que irá reralizar a análise:
+**15**. Também podemos transformar a query utilizada (`q`) em um parametro recebido pela função que irá realizar a análise:
 
 ```python
 def tweet_analysis(query):
